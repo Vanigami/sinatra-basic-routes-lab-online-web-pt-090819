@@ -6,7 +6,7 @@ class App < Sinatra::Base
   end
 
   get '/' do
-    "My name is Vanna"
+    "My name is \_\_"
   end
 
   get '/' do
